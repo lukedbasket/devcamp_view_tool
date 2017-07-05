@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LukeViewTool::Renderer.copyright 'Luke Davis', 'All rights reserved'
+```
 
 ## Development
 
