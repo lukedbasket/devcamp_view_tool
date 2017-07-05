@@ -1,8 +1,8 @@
 require "spec_helper"
 
-describe DevcampViewTool do
+describe LukeViewTool do
   it "has a version number" do
-    expect(DevcampViewTool::VERSION).not_to be nil
+    expect(LukeViewTool::VERSION).not_to be nil
   end
 
   it "does something useful" do
